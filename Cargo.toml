@@ -1,0 +1,15 @@
+[package]
+name = "supra"
+version = "0.0.1"
+authors = ["Arniu <arniu2006@gmail.com>"]
+description="Async web framework inspired by Koa"
+repository = "https://github.com/arniu/supra"
+homepage = "https://github.com/arniu/supra"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+edition = '2018'
+
+[dependencies]
+async-trait = "0.1"
+
